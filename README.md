@@ -1,7 +1,4 @@
-# PizzaSales2015
-Certainly! Let's focus on the technology used and key aspects of the project related to data cleaning, data modeling, and visualization in the project description:
 
----
 
 # Pizza Sales Analysis Project
 
