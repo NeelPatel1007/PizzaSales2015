@@ -4,6 +4,7 @@
 
 Welcome to the Pizza Sales Analysis Project! 🍕📊
 
+
 ### Technologies Used
 
 - **SQL:** Our data journey begins with SQL, the backbone of this analysis. SQL scripts are meticulously crafted for data extraction, cleaning, and modeling, ensuring a robust foundation for insights.
