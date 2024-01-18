@@ -15,7 +15,7 @@ Welcome to the Pizza Sales Analysis Project! 🍕📊
 ### Data Cleaning and Modeling
 
 #### 1. **Data Extraction with SQL:**
-   - SQL scripts in the `sql_scripts` directory extract raw data, setting the stage for subsequent analysis. We navigate through databases to gather pertinent information for our pizza sales exploration.
+   - SQL scripts in word doc from directory extract raw data, setting the stage for subsequent analysis. We navigate through databases to gather pertinent information for our pizza sales exploration.
 
 #### 2. **Data Cleaning and Transformation:**
    - Dive into the SQL scripts to witness the art of data cleaning. We handle missing values, outliers, and ensure data consistency, laying the groundwork for accurate analysis.
