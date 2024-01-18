@@ -26,7 +26,7 @@ Welcome to the Pizza Sales Analysis Project! 🍕📊
 ### Visualization and Dashboards
 
 #### 1. **Tableau Workbook (`PizzaSalesAnalysis.twb`):**
-   - In the `tableau_workbook` directory, find our Tableau workbook where data insights come to life. Visualization is an art, and Tableau's intuitive interface helps craft dynamic charts, graphs, and maps.
+   - Find our Tableau workbook in our repository where data insights come to life. Visualization is an art, and Tableau's intuitive interface helps craft dynamic charts, graphs, and maps.
 
 #### 2. **Sales Overview Dashboard:**
    - Engage with the Sales Overview Dashboard for a snapshot of total sales, top-performing products, and regional distribution. Visualizations dynamically update as you explore.
