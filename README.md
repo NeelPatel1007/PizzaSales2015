@@ -2,8 +2,6 @@
 
 # Pizza Sales Analysis Project
 
-## Description
-
 Welcome to the Pizza Sales Analysis Project! 🍕📊
 
 ### Technologies Used
